@@ -24,3 +24,8 @@ Plataforma: https://io.adafruit.com/diegosantos/dashboards/tcc
 ### Desenvolvimento
 
   Usamos o protocolo NTP para a recepção da hora em tempo real para executarmos a liberação no tempo correto. Isso possibilitou comparar a hora exata com o horário configurado para ser liberado o remédio. Para liberar o remédio usamos um servo motor que puxava uma caixinha e fazia o remédio escorregar por um cano até um baú externo para recepção.
+
+
+### Arquivos
+
+  Disponibilizado a parte téorica de fundamentação do projeto em um arquivo de texto Word, o arquivo de apresentação em slide usado no dia 29/11/2021 e o código compilado no ESP32 feito no arduino IDE.
